@@ -18,12 +18,6 @@ Train from scratch for 5 epochs, or
 
 Load pre-trained weights located in the weights folder (these weights were obtained after 5 epochs of training).
 
-For the final model trained on the CIFAR-10 dataset, you can either:
-
-Generate 50,000 fake images using the provided code, or
-
-Use pre-generated images available in the images folder.
-
 The code runs out of the box in Google Colab, without any modifications.
 If you're running the notebooks locally or in a different environment, you may need to make minor path adjustments to properly load weights or images.
 
